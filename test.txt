@@ -7,3 +7,4 @@ impelemntiram kupuvanje
 impelemntiram footer
 
 implementiram aftintekacija
+aftintekacija

@@ -5,3 +5,5 @@ dsadsadsadsa
 
 impelemntiram kupuvanje
 impelemntiram footer
+
+implementiram aftintekacija
